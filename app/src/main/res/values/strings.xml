@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name ="project1">SPOTIFY STREAMER</string>
+    <string name="project2">FOOTBALL SCORES APP</string>
+    <string name="project3">LIBRARY APP</string>
+    <string name="project4">BUILD IT BIGGER</string>
+    <string name="project5">XYZ READER</string>
+    <string name="capstone">CAPSTONE PROJECT</string>
+    <string name="launch">This Launches </string>
+</resources>
